@@ -1,2 +1,2 @@
 # hola-mundo
-Not your normal repository.
+Not your typical repository.
